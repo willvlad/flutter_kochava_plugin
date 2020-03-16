@@ -16,7 +16,7 @@ flutter_kochava_plugin
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.ios.deployment_target = '8.0'
-  s.dependency 'KochavaTrackeriOS', '3.11.3'
+  s.dependency 'KochavaTrackeriOS', '3.14.0'
   # added when I got an error "[!] The 'Pods-Runner' target has transitive dependencies that include statically linked binaries:"
   s.static_framework = true
   #s.xcconfig = { 'SWIFT_OBJC_BRIDGING_HEADER' => 'Classes/bridging_header.h' }
