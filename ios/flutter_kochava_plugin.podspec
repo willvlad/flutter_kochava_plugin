@@ -5,9 +5,7 @@ Pod::Spec.new do |s|
   s.name             = 'flutter_kochava_plugin'
   s.version          = '0.0.1'
   s.summary          = 'flutter_kochava_plugin'
-  s.description      = <<-DESC
-flutter_kochava_plugin
-                       DESC
+  s.description      = 'flutter_kochava_plugin'
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
