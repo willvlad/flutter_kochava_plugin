@@ -1,6 +1,6 @@
 import Flutter
 import UIKit
-import KochavaTrackeriOSE
+// import KochavaTrackeriOSE
 
 public class SwiftFlutterKochavaPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
